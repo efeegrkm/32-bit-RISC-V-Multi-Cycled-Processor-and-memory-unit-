@@ -1,0 +1,4 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+[ERR] adres 0x80000404 DEGER HATASI expected: 0xdeadbeef actual: 0x55555555.
+$finish called at time : 317 ns : File "C:/Users/efegr/Bil361_Odev1/Bil361_Odev1.srcs/sim_1/new/tb_islemci.v" Line 93

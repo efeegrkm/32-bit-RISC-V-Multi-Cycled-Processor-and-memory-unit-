@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Mar  8 00:13:18 2025
+# Process ID: 16964
+# Current directory: C:/Users/efegr/Bil361_Odev1/Bil361_Odev1.runs/synth_1
+# Command line: vivado.exe -log islemci.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source islemci.tcl
+# Log file: C:/Users/efegr/Bil361_Odev1/Bil361_Odev1.runs/synth_1/islemci.vds
+# Journal file: C:/Users/efegr/Bil361_Odev1/Bil361_Odev1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source islemci.tcl -notrace
